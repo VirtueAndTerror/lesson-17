@@ -1,5 +1,5 @@
 ## Lesson-17
-
+Before adding reselect
 We need to create our cart-item component for our cart and connect our cart component to our cart reducer.
 
 # How to fork and clone
